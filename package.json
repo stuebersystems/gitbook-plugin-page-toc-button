@@ -1,0 +1,19 @@
+﻿{
+	"name": "gitbook-plugin-page-toc-button",
+	"version": "0.1.0",
+	"description": "Adds a page toc button to your Gitbook",
+    "main": "index.js",
+    "license": "Apache-2.0",
+    "author": "STÜBER SYSTEMS <gitbook@stueber.de>",
+    "engines": {
+        "gitbook": ">=3.1.1"
+    },
+	"homepage": "https://github.com/stuebersystems/gitbook-plugin-page-toc-button",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stuebersystems/gitbook-plugin-page-toc-button.git"
+    },
+    "bugs": {
+		"url": "https://github.com/stuebersystems/gitbook-plugin-page-toc-button/issues"
+	}
+}
