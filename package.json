@@ -1,6 +1,6 @@
 ﻿{
 	"name": "gitbook-plugin-page-toc-button",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Adds a page toc button to your Gitbook",
     "main": "index.js",
     "license": "Apache-2.0",
